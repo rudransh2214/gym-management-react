@@ -253,7 +253,7 @@ This project is intended for **educational and learning purposes**.
 
 # 👨‍💻 Author
 
-**Ransh Sharma**
+**Rudransh Sharma**
 
 **BCA Student | Frontend Developer | React Enthusiast**
 
